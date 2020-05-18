@@ -6,3 +6,4 @@ for i in *; do
         mv "$i" "${dir%% *}/$i"
     fi
 done
+echo "Cheers the task is done.Happy Coding"
