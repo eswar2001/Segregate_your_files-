@@ -11,3 +11,5 @@ How to use the script:-
 3.right click and open git bash here or terminal then use cd to navigate to current directory 
 
 4.run "./a.sh" and wait until it completes 
+![...](https://github.com/eswar2001/Segregate_your_files-/blob/master/Capture.JPG)
+![...](https://raw.githubusercontent.com/eswar2001/Segregate_your_files-/master/Capture1.JPG)
